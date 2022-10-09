@@ -7,9 +7,9 @@ window.Config = {
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
     'm792828406-27c64b6a638cfa8841fee671',
-    'm792828406-27c64b6a638cfa8841fee671',
-    'm792828406-27c64b6a638cfa8841fee671',
-    'm792828406-27c64b6a638cfa8841fee671',
+    'm792828477-d3d9c9d89d296ce0714deb13',
+    'm792828485-74d8cb49d4caa39412d10e83',
+    'm792828490-33de0c55f318811935c3dc44',
   ],
 
   // 日志天数
@@ -21,16 +21,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '首页',
+      url: 'http://xc.webxc.ml/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: '博客',
+      url: 'https://www.webxc.ml/'
     },
     {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
+      text: '友人帐',
+      url: 'https://www.webxc.ml/link/'
     },
   ],
 };
